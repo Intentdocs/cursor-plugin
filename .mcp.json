@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "intentdocs": {
+      "type": "streamable-http",
+      "url": "https://www.intentdocs.com/api/mcp"
+    }
+  }
+}
