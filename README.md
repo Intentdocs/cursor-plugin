@@ -1,6 +1,6 @@
 # IntentDocs plugin for Cursor
 
-A Cursor plugin that connects [IntentDocs](https://www.intentdocs.com) and carries the spec and build steps. Cursor discovers `.cursor-plugin/plugin.json`, `mcp.json` and `skills/`. [cursor.directory](https://cursor.directory) discovers `.mcp.json` and the same `skills/` tree.
+A Cursor plugin that connects [IntentDocs](https://www.intentdocs.com/connect/cursor) and carries the spec and build steps. Cursor discovers `.cursor-plugin/plugin.json`, `mcp.json` and `skills/`. [cursor.directory](https://cursor.directory) discovers `.mcp.json` and the same `skills/` tree.
 
 | File | What it is |
 |---|---|
